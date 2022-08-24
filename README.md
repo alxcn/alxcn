@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro Ucan-Puc (@alxcn)
 - 👀 I’m interested in Discrete group actions on the Projective Space
-- 📫 How to reach me alejandro.ucan-puc@imj-prg.fr
+- 📫 How to reach me alejandro.ucan-puc@tec.mx
 
 <!---
 alxcn/alxcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
